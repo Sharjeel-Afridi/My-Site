@@ -11,6 +11,9 @@ h1 {
 h2{
     font-family: 'Montserrat', sans-serif ;
 }
+.pro{
+    text-decoration: underline;
+}
 .profile-pic {
     border-radius: 100%;
     height: 200px;
